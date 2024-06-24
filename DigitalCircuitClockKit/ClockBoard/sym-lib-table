@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CD4xxx")(type "Legacy")(uri "${KIPRJMOD}/CD4060.lib")(options "")(descr ""))
+)
