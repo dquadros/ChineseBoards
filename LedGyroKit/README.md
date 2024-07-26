@@ -41,8 +41,6 @@ Good kit for leaning how to solder. Recommended as a first electronic assembly p
 
 Este é um kit bem simples, com quatro LEDs em uma placa circular que mostra um padrão simples quando a placa é girada como um pião.
 
-The kit comes with a small piece of paper with a part list on one side and the commented schematic in the other. All in Chinese. 
-
 Os anúncios na AliExpress contem fotos da placa montada e do posicionamento dos componentes.
 
 O kit vem com um pequeno pedaço de papel contendo de um lado a lista de peças e do outro o esquema comentado. Tudo em chinês.

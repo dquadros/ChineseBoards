@@ -28,6 +28,7 @@ You will need a 3 to 9V power supply.
 ### Files
 
 * Piano.png: retouched circuit
+* PianoKit.jpg: finished board
 
 ### Links
 
@@ -70,6 +71,7 @@ Você vai precisar de uma fonte com tensão entre 3 e 9 Volts.
 ### Arquivos
 
 * Piano.png: circuito retocado
+* PianoKit.jpg: placa montada
 
 ### Links
 
@@ -80,6 +82,6 @@ Encontrado na AliExpress:
 
 ### Meus Comentários
 
-É um bom kit para aprender a soldar. Recomento como primeiro projeto de montagem eletrônica, especialmente para crianças.
+É um bom kit para aprender a soldar. Recomendo como primeiro projeto de montagem eletrônica, especialmente para crianças.
 
 Nota: A frequência das notas está errada.
