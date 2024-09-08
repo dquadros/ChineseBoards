@@ -1,8 +1,6 @@
 # ESP32 Mini Boards Board
 
-
-./Placas_ESP32_Mini.png
-
+![Placas](Placas_ESP32_Mini.png)
 
 ## English
 
