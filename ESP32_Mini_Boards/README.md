@@ -24,6 +24,8 @@ This is the smallest board in this lot and showcases the ESP32-C3 as a compact a
 
 https://pt.aliexpress.com/i/1005005952121292.html
 
+Some versions of this board have the antenna too close to the oscillator, degrading RF performance: https://roryhay.es/blog/esp32-c3-super-mini-flaw
+
 #### Super Mini ESP32-C6
 
 The ESP32-C6 brings 802.15.4 compatibility, with support for Zigbee and Thread protocols. 
@@ -100,6 +102,8 @@ https://pt.aliexpress.com/item/1005006144059426.html
 Esta é a menor placa do conjunto e mostra como o ESP32-C3 é uma opção compacta e barata para projetos simples com WiFi ou BLE.
 
 https://pt.aliexpress.com/i/1005005952121292.html
+
+Algumas versões desta placa tem a antena próxima demais do oscilador, prejudicando o desempenho do rádio: https://roryhay.es/blog/esp32-c3-super-mini-flaw
 
 #### Super Mini ESP32-C6
 
